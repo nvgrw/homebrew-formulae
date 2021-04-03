@@ -2,8 +2,8 @@ class Grit < Formula
   desc "A multitree-based personal task manager"
   homepage "https://github.com/climech/grit/"
   license "MIT"
-  url "https://github.com/climech/grit/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "dddf63cbebd9ea99c0c0290fca4f48e9ad395dfa39e6ded373b459f290179e40"
+  url "https://github.com/climech/grit/archive/ab30f8612e2c46ad0981a2f29c1e344bb60f6e35.tar.gz"
+  sha256 "6e02c2ba58e9596c808ce7aa327b2a212da2ee516acf90ee702a6439466bedfe"
   head "https://github.com/climech/grit.git"
 
   depends_on "go" => :build
