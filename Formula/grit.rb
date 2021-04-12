@@ -1,9 +1,9 @@
 class Grit < Formula
   desc "Multitree-based personal task manager"
   homepage "https://github.com/climech/grit/"
-  url "https://github.com/climech/grit/archive/ab30f8612e2c46ad0981a2f29c1e344bb60f6e35.tar.gz"
-  version "0.2.0"
-  sha256 "6e02c2ba58e9596c808ce7aa327b2a212da2ee516acf90ee702a6439466bedfe"
+  url "https://github.com/climech/grit/archive/refs/tags/v0.3.0.tar.gz"
+  version "0.3.0"
+  sha256 "6c6ef08ba01c080e0d7fc3dd7fdaf1c8662dad6456da22ef453e2963c44bab01"
   license "MIT"
   head "https://github.com/climech/grit.git"
 
